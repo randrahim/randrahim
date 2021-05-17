@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Languages:<br><br>
 <img src="https://www.w3schools.com/images/lamp.jpg" alt="Lamp" width="32" height="32">
-<img src="https://img-premium.flaticon.com/png/512/888/888859.png?token=exp=1621258910~hmac=c8318ce1010990cd4d5f3a6b8b0918ad" alt="Lamp" width="32" height="32">
+<img src="https://simpleicons.org/icons/html5.svg" alt="HTML" width="32" height="32">
