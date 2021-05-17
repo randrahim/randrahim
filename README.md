@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Languages:
-<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<img src="https://www.flaticon.com/authors/pixel-perfect" alt="Girl in a jacket" width="500" height="600">
+
 
