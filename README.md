@@ -2,11 +2,11 @@
 
 <!--
 **randrahim/randrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
+<b>Rand Rahim</b>
 Control and Systems Engineer. Currently pursuing a second degree in Website Design/Development. Experienced Web Developer proficient in various Web Development and Computer programming languages, developing functional, attractive, and responsive websites. In-depth knowledge of usability principles, cross-browser compatibility, and HTML document architecture. Extensive coding skills with hands-on experience in maintaining a range of computer systems platforms. Analytical and problem-solving skills. Dedicated and highly motivated. 
 
 
-Languages & Tools:<br><br>
+<b>Languages & Tools:</b><br><br>
 <img src="https://img-premium.flaticon.com/png/512/906/906324.png?token=exp=1621267351~hmac=e567736141b8bdf2a490e5206c205f99" alt="VS" width="50" height="50">
 <img src="https://img-premium.flaticon.com/png/512/1258/1258409.png?token=exp=1621267450~hmac=738a2e0d6800b03e022f3b0220b374c1" alt="VS" width="50" height="50">
 <img src="https://img-premium.flaticon.com/png/512/888/888859.png?token=exp=1621263099~hmac=069812040748e7b2876387a53b160657" alt="HTML" width="50" height="50">
