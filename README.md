@@ -29,6 +29,7 @@ Languages & Tools:<br><br>
 <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" alt="Ajax" width="50" height="50"> 
 <br>
 <img src="https://img-premium.flaticon.com/png/512/174/174881.png?token=exp=1621268073~hmac=fd30d4f6de3a4d79a99ff9e13c82aaef" alt="wordpress" width="50" height="50"> 
+<img src="https://img-premium.flaticon.com/png/512/2784/2784065.png?token=exp=1621268181~hmac=fa9c9c0273012d2848f712c2554ce6bd" alt="agile" width="50" height="50"> 
 <img src="https://img-premium.flaticon.com/png/512/552/552220.png?token=exp=1621266806~hmac=aeab4ba4351c54d0a2debc9d1bf8b35e" alt="photoshop" width="50" height="50"> 
 <img src="https://img-premium.flaticon.com/png/512/552/552223.png?token=exp=1621266892~hmac=94063c99c86fa30ab7d4a43e6e359b60" alt="indesign" width="50" height="50">
 <img src="https://img-premium.flaticon.com/png/512/552/552222.png?token=exp=1621266920~hmac=1b5d655c8d9b8ff99e03221587aba860" alt="illustrator" width="50" height="50"> 
@@ -36,3 +37,4 @@ Languages & Tools:<br><br>
 <img src="https://img-premium.flaticon.com/png/512/888/888883.png?token=exp=1621267217~hmac=71d0b01a718db11d477d302756cc0319" alt="word" width="50" height="50">
 <img src="https://img-premium.flaticon.com/png/512/732/732220.png?token=exp=1621267267~hmac=705c9f3afbe334649160d27a955c433d" alt="excel" width="50" height="50">
 <img src="https://img-premium.flaticon.com/png/512/888/888874.png?token=exp=1621267319~hmac=a19f793fac7f398ad9ed3f9e4b271152" alt="powerpoint" width="50" height="50">
+<img src="https://img-premium.flaticon.com/png/512/732/732223.png?token=exp=1621268144~hmac=5bccccb8617c5a7df950449f7649b553" alt="outlook" width="50" height="50">
