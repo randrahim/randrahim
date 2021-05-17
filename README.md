@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 
 Languages:<br><br>
-<img src="https://www.w3schools.com/images/lamp.jpg" alt="Lamp" width="32" height="32">
 <img src="https://simpleicons.org/icons/html5.svg" alt="HTML" width="32" height="32">
+<img src="https://simpleicons.org/icons/java.svg" alt="JS" width="32" height="32">
