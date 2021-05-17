@@ -3,16 +3,7 @@
 <!--
 **randrahim/randrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Node.js
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on Node.js Project
-- 🤔 I’m looking for help with Node.js
-- 💬 Ask me about anything
-- 📫 How to reach me: rand.rahim@outlook.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Control and Systems Engineer. Currently pursuing a second degree in Website Design/Development. Experienced Web Developer proficient in various Web Development and Computer programming languages, developing functional, attractive, and responsive websites. In-depth knowledge of usability principles, cross-browser compatibility, and HTML document architecture. Extensive coding skills with hands-on experience in maintaining a range of computer systems platforms. Analytical and problem-solving skills. Dedicated and highly motivated. 
 
 
 Languages & Tools:<br><br>
