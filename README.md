@@ -26,3 +26,5 @@ Languages:<br><br>
 
 <br>
 <img src="https://img-premium.flaticon.com/png/512/552/552220.png?token=exp=1621266806~hmac=aeab4ba4351c54d0a2debc9d1bf8b35e" alt="photoshop" width="50" height="50"> 
+<img src="https://img-premium.flaticon.com/png/512/552/552223.png?token=exp=1621266892~hmac=94063c99c86fa30ab7d4a43e6e359b60" alt="indesign" width="50" height="50">
+<img src="https://img-premium.flaticon.com/png/512/552/552222.png?token=exp=1621266920~hmac=1b5d655c8d9b8ff99e03221587aba860" alt="illustrator" width="50" height="50">
