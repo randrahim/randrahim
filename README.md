@@ -41,6 +41,8 @@ Seeking new opportunites in a growth-oriented organization, where I can utilize 
 <img src="https://img-premium.flaticon.com/png/512/552/552223.png?token=exp=1621266892~hmac=94063c99c86fa30ab7d4a43e6e359b60" alt="indesign" width="50" height="50">
 <img src="https://img-premium.flaticon.com/png/512/552/552222.png?token=exp=1621266920~hmac=1b5d655c8d9b8ff99e03221587aba860" alt="illustrator" width="50" height="50"> 
 <br>
+<img src="https://img-premium.flaticon.com/png/512/0/464.png?token=exp=1621270326~hmac=70af31657bc65a36196134f46b595779" alt="windows" width="50" height="50">
+<img src="https://img-premium.flaticon.com/png/512/731/731985.png?token=exp=1621270415~hmac=8e4873cf68ea64efdcd5ab8c83c6bfc5" alt="ios" width="50" height="50">
 <img src="https://img-premium.flaticon.com/png/512/888/888867.png?token=exp=1621270253~hmac=63b7e20ce4414f00b6de5656a7eae9fa" alt="MSoffice" width="50" height="50">
 <img src="https://img-premium.flaticon.com/png/512/888/888883.png?token=exp=1621267217~hmac=71d0b01a718db11d477d302756cc0319" alt="word" width="50" height="50">
 <img src="https://img-premium.flaticon.com/png/512/732/732220.png?token=exp=1621267267~hmac=705c9f3afbe334649160d27a955c433d" alt="excel" width="50" height="50">
