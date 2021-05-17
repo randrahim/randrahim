@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Languages:<br><br>
 <img src="https://www.w3schools.com/images/lamp.jpg" alt="Lamp" width="32" height="32">
-<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<img src="https://img-premium.flaticon.com/png/512/888/888859.png?token=exp=1621258910~hmac=c8318ce1010990cd4d5f3a6b8b0918ad" alt="Lamp" width="32" height="32">
