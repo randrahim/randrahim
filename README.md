@@ -8,8 +8,9 @@ Seeking new opportunites in a growth-oriented organization, where I can utilize 
 
 <b>Education:</b>
 - Bachelor of Science (B.Sc.), Control and Systems Engineering (2001 - 2005).
-- Diploma Degree in Website Design/Development (2019 - 2021).
-- Graphic Design Certificate (2019 - 2021) <br><br>
+- Gwinnett Technical College:
+  - Diploma Degree in Website Design/Development (2019 - 2021).
+  - Graphic Design Certificate (2019 - 2021) <br><br>
 
 <b>Languages & Tools:</b><br><br>
 <img src="https://img-premium.flaticon.com/png/512/906/906324.png?token=exp=1621267351~hmac=e567736141b8bdf2a490e5206c205f99" alt="VS" width="50" height="50">
