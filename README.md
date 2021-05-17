@@ -18,7 +18,7 @@ Seeking new opportunites in a growth-oriented organization, where I can utilize 
   - Become an Agile Project Manager (Learning Paths) - Lynda.com	
   - Cert Prep: AWS Certified Solutions Architect - Professional - Lynda.com		
   - The Complete 2020 Web Development Bootcamp by Angela Yu- Udemy.com			
-  - The Web Developer Bootcamp by Colt Steele - Udemy.com		
+  - The Web Developer Bootcamp by Colt Steele - Udemy.com		<br><br>
 
 
 <b>Languages & Tools:</b><br><br>
