@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-Languages:<br>
+Languages:<br><br>
 <img src="https://www.w3schools.com/images/lamp.jpg" alt="Lamp" width="32" height="32">
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
