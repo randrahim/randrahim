@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-Languages:
+Languages:<br>
 <img src="https://www.w3schools.com/images/lamp.jpg" alt="Lamp" width="32" height="32">
