@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-Languages:<br><br>
+Languages:<br>
 <img src="https://img-premium.flaticon.com/png/512/906/906324.png?token=exp=1621267351~hmac=e567736141b8bdf2a490e5206c205f99" alt="VS" width="50" height="50">
 <img src="https://img-premium.flaticon.com/png/512/888/888859.png?token=exp=1621263099~hmac=069812040748e7b2876387a53b160657" alt="HTML" width="50" height="50">
 <img src="https://img-premium.flaticon.com/png/512/919/919826.png?token=exp=1621260807~hmac=3addbfc72da4a4644b0405f48cc26b76" alt="CSS" width="50" height="50">
