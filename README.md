@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Languages:<br><br>
 <img src="https://img-premium.flaticon.com/png/512/888/888859.png?token=exp=1621263099~hmac=069812040748e7b2876387a53b160657" alt="HTML" width="50" height="50">
 <img src="https://img-premium.flaticon.com/png/512/919/919826.png?token=exp=1621260807~hmac=3addbfc72da4a4644b0405f48cc26b76" alt="CSS" width="50" height="50">
-<img src="https://simpleicons.org/icons/java.svg" alt="JS" width="50" height="50">
 <img src="https://img-premium.flaticon.com/png/512/919/919828.png?token=exp=1621261019~hmac=f4240e2b996f69775df1e0cd2396bc25" alt="JS" width="50" height="50">
+<img src="https://img-premium.flaticon.com/png/512/2772/2772128.png?token=exp=1621266564~hmac=b829e60fd146f4a7c83299f400e4fbce" alt="SQL" width="50" height="50">
+<img src="https://img-premium.flaticon.com/png/512/919/919830.png?token=exp=1621266613~hmac=5f0067bd9b879c2cfbe074928f843a8a" alt="PHP" width="50" height="50">
 
