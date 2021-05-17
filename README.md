@@ -11,7 +11,7 @@ Seeking new opportunites in a growth-oriented organization, where I can utilize 
 - Gwinnett Technical College:
   - Diploma Degree in Website Design/Development (2019 - 2021).
   - Graphic Design Certificate (2019 - 2021) <br><br>
-- Bootcamps Certificate:
+- <b>Bootcamps Certificate:</b>
   - Build Responsive Real-World Websites with HTML5 and CSS3 - Udemy.com		
   - Master In-Demand Professional Soft Skills - Learning Paths - Lynda.com 		
   - Succeeding in Web Development: Full Stack and Front End - Lynda.com 		
