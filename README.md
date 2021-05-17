@@ -5,7 +5,7 @@
 <b>Rand Rahim</b><br>
 I am a Frontend Web Developer with BSc. Degree in Control and Systems Engineer and Diploma Degree in Website Design/Development. Experienced Web Developer proficient in various Web Development and Computer programming languages, developing functional, attractive, and responsive websites. In-depth knowledge of usability principles, cross-browser compatibility, and HTML document architecture. Extensive coding skills with hands-on experience in maintaining a range of computer systems platforms. Analytical and problem-solving skills. Dedicated and highly motivated. <br><br>
 
-<b>Education:</b><br><br>
+<b>Education:</b>
 - Bachelor of Science (B.Sc.), Control and Systems Engineering (2001 - 2005).
 - Diploma Degree in Website Design/Development (2019 - 2021).
 - Graphic Design Certificate (2019 - 2021)
