@@ -3,10 +3,8 @@
 <!--
 **randrahim/randrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <b>Rand Rahim</b><br>
-An accomplished and experienced so1ware programmer with a broad
-background and knowledge in several different programming languages and
-computer technologies. Seeking new opportuni<es in a growth-oriented
-organiza<on, where I can u<lize my overall skills and experience. <br><br>
+An accomplished and experienced software programmer with a broad background and knowledge in several different programming languages and computer technologies. 
+Seeking new opportunites in a growth-oriented organization, where I can utilize my overall skills and experience. <br><br>
 
 <b>Education:</b>
 - Bachelor of Science (B.Sc.), Control and Systems Engineering (2001 - 2005).
