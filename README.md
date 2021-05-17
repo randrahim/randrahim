@@ -2,7 +2,7 @@
 
 <!--
 **randrahim/randrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<b>Rand Rahim</b>
+<b>Rand Rahim</b><br>
 Control and Systems Engineer. Currently pursuing a second degree in Website Design/Development. Experienced Web Developer proficient in various Web Development and Computer programming languages, developing functional, attractive, and responsive websites. In-depth knowledge of usability principles, cross-browser compatibility, and HTML document architecture. Extensive coding skills with hands-on experience in maintaining a range of computer systems platforms. Analytical and problem-solving skills. Dedicated and highly motivated. 
 
 
