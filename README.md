@@ -7,8 +7,8 @@ An accomplished and experienced software programmer with a broad background and 
 Seeking new opportunites in a growth-oriented organization, where I can utilize my overall skills and experience. <br><br>
 
 <b>Education:</b>
-- Bachelor of Science (B.Sc.), Control and Systems Engineering (2001 - 2005).
-- Gwinnett Technical College:
+- <b>University of Technology</b>, Bachelor of Science (B.Sc.) in Control and Systems Engineering  (2001 - 2005).
+- <b>Gwinnett Technical College:</b>
   - Diploma Degree in Website Design/Development (2019 - 2021).
   - Graphic Design Certificate (2019 - 2021) <br><br>
 - <b>Bootcamps Certificate:</b>
