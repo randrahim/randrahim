@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 -->
 
 Languages:
-<img src="https://www.flaticon.com/authors/pixel-perfect" alt="Girl in a jacket" width="500" height="600">
-
-
