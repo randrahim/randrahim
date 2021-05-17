@@ -11,6 +11,15 @@ Seeking new opportunites in a growth-oriented organization, where I can utilize 
 - Gwinnett Technical College:
   - Diploma Degree in Website Design/Development (2019 - 2021).
   - Graphic Design Certificate (2019 - 2021) <br><br>
+- Bootcamps Certificate:
+  - Build Responsive Real-World Websites with HTML5 and CSS3 - Udemy.com		
+  - Master In-Demand Professional Soft Skills - Learning Paths - Lynda.com 		
+  - Succeeding in Web Development: Full Stack and Front End - Lynda.com 		
+  - Become an Agile Project Manager (Learning Paths) - Lynda.com	
+  - Cert Prep: AWS Certified Solutions Architect - Professional - Lynda.com		
+  - The Complete 2020 Web Development Bootcamp by Angela Yu- Udemy.com			
+  - The Web Developer Bootcamp by Colt Steele - Udemy.com		
+
 
 <b>Languages & Tools:</b><br><br>
 <img src="https://img-premium.flaticon.com/png/512/906/906324.png?token=exp=1621267351~hmac=e567736141b8bdf2a490e5206c205f99" alt="VS" width="50" height="50">
