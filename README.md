@@ -23,13 +23,12 @@ Seeking new opportunites in a growth-oriented organization, where I can utilize 
 
 
 <b>Languages & Tools:</b>
-- HTML/CSS/JavaScript/Bootstrap/JQuery/Ajax
-- PHP/SQL/Node.js/Express.js
-- Wordpress
-- Agile Methodology
-- Adobe Photoshop/Illustrator/InDesign
-- Microsoft Office Word/PowerPoint/Excel/Outlook
-- Windows XP/7/8/10  <b>|</b> MacOS X  <b>|</b> MS Visual Studio Code
+- HTML / CSS / JavaScript / Bootstrap / JQuery / Ajax
+- PHP / SQL / Node.js / Express.js
+- Wordpress / Agile Methodology
+- Adobe Photoshop / Illustrator / InDesign
+- Microsoft Office Word / PowerPoint / Excel / Outlook
+- Windows XP/7/8/10  <b>/</b> MacOS X  <b>/</b> MS Visual Studio Code
 
 <b>Projects:</b><br>
 - PHP II Final Project: http://rrahim.info/2550/final/index.php
