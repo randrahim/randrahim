@@ -8,7 +8,8 @@ Seeking new opportunites in a growth-oriented organization, where I can utilize 
 
 <b>Education:</b>
 - <b>University of Technology:</b>
-  - Bachelor of Science (B.Sc.) in Control and Systems Engineering - Computer Engineering Major (2001 - 2005).
+  - Bachelor of Science (B.Sc.) in Control and Systems Engineering  (2001 - 2005)
+    (Computer Engineering Major)
 - <b>Gwinnett Technical College:</b>
   - Diploma Degree in Website Design/Development (2019 - 2021).
   - Web Site Developer Certificate (2019 - 2021).
