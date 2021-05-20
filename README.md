@@ -24,7 +24,7 @@ Seeking new opportunites in a growth-oriented organization, where I can utilize 
   - The Web Developer Bootcamp by Colt Steele - Udemy.com		<br><br>
 
 
-<b>Technical Skills:</b>
+<b>Languages & Technical Skills:</b>
 - HTML <b>|</b> CSS <b>|</b> JavaScript <b>|</b> Bootstrap <b>|</b> JQuery <b>|</b> Ajax.
 - PHP <b>|</b> SQL <b>|</b> Node.js <b>|</b> Express.js <b>|</b> Wordpress <b>|</b> Agile Methodology.
 - Adobe Photoshop <b>|</b> Illustrator <b>|</b> InDesign.
