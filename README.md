@@ -24,11 +24,10 @@ Seeking new opportunites in a growth-oriented organization, where I can utilize 
 
 <b>Languages & Tools:</b>
 - HTML <b>|</b> CSS <b>|</b> JavaScript <b>|</b> Bootstrap <b>|</b> JQuery <b>|</b> Ajax.
-- PHP <b>|</b> SQL <b>|</b> Node.js <b>|</b> Express.js
-- Wordpress <b>|</b> Agile Methodology
-- Adobe Photoshop <b>|</b> Illustrator <b>|</b> InDesign
-- Microsoft Office Word <b>|</b> PowerPoint <b>|</b> Excel <b>|</b> Outlook
-- Windows XP/7/8/10  <b>|</b> MacOS X  <b>|</b> MS Visual Studio Code
+- PHP <b>|</b> SQL <b>|</b> Node.js <b>|</b> Express.js <b>|</b> Wordpress <b>|</b> Agile Methodology.
+- Adobe Photoshop <b>|</b> Illustrator <b>|</b> InDesign.
+- Microsoft Office Word <b>|</b> PowerPoint <b>|</b> Excel <b>|</b> Outlook.
+- Windows XP/7/8/10  <b>|</b> MacOS X  <b>|</b> MS Visual Studio Code.
 
 <b>Projects:</b><br>
 - PHP II Final Project: http://rrahim.info/2550/final/index.php
