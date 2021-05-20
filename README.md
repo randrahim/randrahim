@@ -11,7 +11,8 @@ Seeking new opportunites in a growth-oriented organization, where I can utilize 
   - Bachelor of Science (B.Sc.) in Control and Systems Engineering  (2001 - 2005).
 - <b>Gwinnett Technical College:</b>
   - Diploma Degree in Website Design/Development (2019 - 2021).
-  - Graphic Design Certificate (2019 - 2021) <br><br>
+  - Web Site Developer Certificate (2019 - 2021).
+  - Graphic Design for the Web Certificate (2019 - 2021).<br><br>
 - <b>Bootcamps Certificate:</b>
   - Build Responsive Real-World Websites with HTML5 and CSS3 - Udemy.com		
   - Master In-Demand Professional Soft Skills - Learning Paths - Lynda.com 		
