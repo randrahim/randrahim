@@ -3,8 +3,7 @@
 <!--
 **randrahim/randrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <b>Rand Rahim</b><br>
-An accomplished and experienced software programmer with a broad background and knowledge in several different programming languages and computer technologies. 
-Seeking new opportunites in a growth-oriented organization, where I can utilize my overall skills and experience. <br><br>
+Control and System Engineer with a second degree in Website Design and Development. Experienced Web Developer proficient in various Web Development and Computer programming languages, developing functional, attractive, and responsive websites. Extensive coding skill with hands-on experience in maintaining a range of computer system platforms. Analytical and problem-solving skills. Dedicated and highly motivated with broad background and knowledge in several different programming languages and computer technologies. <br><br>
 
 <b>Education:</b>
 - <b>University of Technology:</b>
