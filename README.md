@@ -14,13 +14,13 @@ Control and System Engineer with a second degree in Website Design and Developme
   - Web Site Developer Certificate (2019 - 2021).
   - Graphic Design for the Web Certificate (2019 - 2021).<br><br>
 - <b>Bootcamps Certificate:</b>
-  - Build Responsive Real-World Websites with HTML5 and CSS3 - Udemy.com		
+  - Build Responsive Real-World Websites with HTML5 and CSS3 - Udemy.com	
+  - The Complete 2020 Web Development Bootcamp by Angela Yu- Udemy.com
+  - The Web Developer Bootcamp by Colt Steele - Udemy.com
   - Master In-Demand Professional Soft Skills - Learning Paths - Lynda.com 		
   - Succeeding in Web Development: Full Stack and Front End - Lynda.com 		
   - Become an Agile Project Manager (Learning Paths) - Lynda.com	
-  - Cert Prep: AWS Certified Solutions Architect - Professional - Lynda.com		
-  - The Complete 2020 Web Development Bootcamp by Angela Yu- Udemy.com			
-  - The Web Developer Bootcamp by Colt Steele - Udemy.com		<br><br>
+  - Cert Prep: AWS Certified Solutions Architect - Professional - Lynda.com	<br><br>
 
 
 <b>Languages & Technical Skills:</b>
