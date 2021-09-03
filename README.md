@@ -14,8 +14,8 @@ Computer and System Engineer with a recent second degree in Website Design and D
   - Web Site Developer Certificate (2019 - 2021).
   - Graphic Design for the Web Certificate (2019 - 2021).<br><br>
 
-<b><h1>Certification:</h1></b>
-  - AWS Certified Cloud Practitioner
+<b><h1>Certification:</h1></b> 
+  - <a href="https://www.credly.com/badges/a3f60f90-e75b-466d-a8ee-7736b39e32bb?source=linked_in_profile">AWS Certified Cloud Practitioner</a>
 
 - <b>Bootcamps Certificate:</b>
   - Build Responsive Real-World Websites with HTML5 and CSS3 - Udemy.com	
