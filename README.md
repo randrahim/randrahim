@@ -13,6 +13,10 @@ Computer and System Engineer with a recent second degree in Website Design and D
   - Diploma Degree in Website Design/Development (2019 - 2021).
   - Web Site Developer Certificate (2019 - 2021).
   - Graphic Design for the Web Certificate (2019 - 2021).<br><br>
+
+<b><h1>Certification:</h1></b>
+  - AWS Certified Cloud Practitioner
+
 - <b>Bootcamps Certificate:</b>
   - Build Responsive Real-World Websites with HTML5 and CSS3 - Udemy.com	
   - The Complete 2020 Web Development Bootcamp by Angela Yu- Udemy.com
@@ -22,17 +26,15 @@ Computer and System Engineer with a recent second degree in Website Design and D
   - Become an Agile Project Manager (Learning Paths) - Lynda.com	
   - Cert Prep: AWS Certified Solutions Architect - Professional - Lynda.com	<br><br>
 
-<b>Certification:</b>
-- <b>AWS Certified Cloud Practitioner</b>
 
-<b>Languages & Technical Skills:</b>
+<b><h1>Languages & Technical Skills:</h1></b>
 - HTML <b>|</b> CSS <b>|</b> JavaScript <b>|</b> Bootstrap <b>|</b> JQuery <b>|</b> Ajax.
 - PHP <b>|</b> SQL <b>|</b> Node.js <b>|</b> Express.js <b>|</b> Wordpress <b>|</b> Agile Methodology.
 - Adobe Photoshop <b>|</b> Illustrator <b>|</b> InDesign.
 - Microsoft Office Word <b>|</b> PowerPoint <b>|</b> Excel <b>|</b> Outlook.
 - Windows XP/7/8/10  <b>|</b> MacOS X  <b>|</b> MS Visual Studio Code.
 
-<b>Projects:</b><br>
+<b><h1>Projects:</h1></b>
 - PHP II Final Project: http://rrahim.info/2550/final/index.php
 - WordPress.org: http://rrahim.info/wordpress/
 - Restaurant Web: http://rrahim.info/1510/restaurant/resturant.html
