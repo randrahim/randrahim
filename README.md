@@ -2,7 +2,7 @@
 
 <!--
 **randrahim/randrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<b>Rand Rahim</b><br>
+<b><h1>Rand Rahim</h1></b><br>
 Computer and System Engineer with a recent second degree in Website Design and Development. Creative and motivated Front-End Developer with 2+ years of experience in building and maintaining responsive websites. Skilled in designing, developing, and testing multiple web-based applications incorporating a range of technologies. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer. Seeking new opportunities in a growth-oriented organization, where I can utilize my overall skills and experience. <br><br>
 
 <a href="http://www.rrahim.info">My Portofolio</a> &nbsp; &nbsp; &nbsp;
