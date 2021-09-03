@@ -35,7 +35,7 @@ Computer and System Engineer with a recent second degree in Website Design and D
 - Windows XP/7/8/10  <b>|</b> MacOS X  <b>|</b> MS Visual Studio Code.
 
 <b><h1>Projects:</h1></b>
-- PHP II Final Project: http://rrahim.info/2550/final/index.php
+- <a href="http://rrahim.info/2550/final/index.php">PHP II Final Project</a> 
 - WordPress.org: http://rrahim.info/wordpress/
 - Restaurant Web: http://rrahim.info/1510/restaurant/resturant.html
 - Plant Based Diet: http://rrahim.info/1510/final/index.html
