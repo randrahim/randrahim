@@ -22,6 +22,9 @@ Computer and System Engineer with a recent second degree in Website Design and D
   - Become an Agile Project Manager (Learning Paths) - Lynda.com	
   - Cert Prep: AWS Certified Solutions Architect - Professional - Lynda.com	<br><br>
 
+<b>Certification:</b>
+- <b>Amazon:</b>
+  - AWS Certified Cloud Practitioner.<br>
 
 <b>Languages & Technical Skills:</b>
 - HTML <b>|</b> CSS <b>|</b> JavaScript <b>|</b> Bootstrap <b>|</b> JQuery <b>|</b> Ajax.
