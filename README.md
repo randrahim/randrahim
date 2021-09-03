@@ -5,6 +5,9 @@
 <b>Rand Rahim</b><br>
 Computer and System Engineer with a recent second degree in Website Design and Development. Creative and motivated Front-End Developer with 2+ years of experience in building and maintaining responsive websites. Skilled in designing, developing, and testing multiple web-based applications incorporating a range of technologies. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer. Seeking new opportunities in a growth-oriented organization, where I can utilize my overall skills and experience. <br><br>
 
+<a href="http://www.rrahim.info">My Portofolio</a>
+<a href="http://www.linkedin.com/in/randrahim">My LinkedIn</a>
+
 <b><h1>Education:</h1></b>
 - <b>University of Technology:</b>
   - Bachelor of Science (B.Sc.) in Control and Systems Engineering  (2005)<br>
