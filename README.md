@@ -42,5 +42,6 @@ Computer and System Engineer with a recent second degree in Website Design and D
 - Pacific Trails Resort: http://rrahim.info/1510/pacific/index.html
 - Java Jam Coffee: http://rrahim.info/1510/javaJam/index.html
 - Light Yoga Studio: http://rrahim.info/1510/yogaStudio/index.html
-- Photoshop Final Project: http://rrahim.info/1530/final/index.html
-- Photoshop II Final Project: http://rrahim.info/2531/final/index.html
+- Photoshop Assignments: http://rrahim.info/2531/index.html
+- Illustrator Assignments: http://rrahim.info/1550/index.html
+- InDesign Assignments: http://rrahim.info/1560/index.html
