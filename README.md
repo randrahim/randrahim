@@ -36,12 +36,12 @@ Computer and System Engineer with a recent second degree in Website Design and D
 
 <b><h1>Projects:</h1></b>
 - <a href="http://rrahim.info/2550/final/index.php">PHP II Final Project</a> 
-- WordPress.org: http://rrahim.info/wordpress/
-- Restaurant Web: http://rrahim.info/1510/restaurant/resturant.html
-- Plant Based Diet: http://rrahim.info/1510/final/index.html
-- Pacific Trails Resort: http://rrahim.info/1510/pacific/index.html
-- Java Jam Coffee: http://rrahim.info/1510/javaJam/index.html
-- Light Yoga Studio: http://rrahim.info/1510/yogaStudio/index.html
-- Photoshop Assignments: http://rrahim.info/2531/index.html
-- Illustrator Assignments: http://rrahim.info/1550/index.html
-- InDesign Assignments: http://rrahim.info/1560/index.html
+- <a href="http://rrahim.info/wordpress/">WordPress.org</a> 
+- <a href="http://rrahim.info/1510/restaurant/resturant.html">Restaurant Web</a>
+- <a href="http://rrahim.info/1510/final/index.html">Plant Based Diet</a>
+- <a href="http://rrahim.info/1510/pacific/index.html">Pacific Trails Resort</a>
+- <a href="http://rrahim.info/1510/javaJam/index.html">Java Jam Coffee</a>
+- <a href="http://rrahim.info/1510/yogaStudio/index.html">Light Yoga Studio</a>
+- <a href="http://rrahim.info/2531/index.html">Photoshop Assignments & Final Project</a>
+- <a href="http://rrahim.info/1550/index.html">Illustrator Assignments & Final Project</a>
+- <a href="http://rrahim.info/1560/index.html">InDesign Final Project</a>
