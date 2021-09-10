@@ -10,7 +10,7 @@ Computer and System Engineer with a recent second degree in Website Design and D
 
 <b><h1>Education:</h1></b>
 - <b>University of Technology:</b>
-  - Bachelor of Science (B.Sc.) in Control and Systems Engineering  (2005)<br>
+  - Bachelor of Science (B.Sc.) in Control and Systems Engineering<br>
     (Computer Engineering Major)
 - <b>Gwinnett Technical College:</b>
   - Diploma Degree in Website Design/Development (2019 - 2021).
