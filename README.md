@@ -38,6 +38,11 @@ Computer and System Engineer with a recent second degree in Website Design and D
 - Windows XP/7/8/10  <b>|</b> MacOS X  <b>|</b> MS Visual Studio Code
 
 <b><h1>Projects:</h1></b>
+- <a href="http://rrahim.info/projects/omniFood/index.html">Omni Food Website</a> 
+- <a href="http://rrahim.info/projects/EverydayThings/index.html">Everyday Things Website</a>
+- <a href="http://rrahim.info/projects/FunGym/index.html">FunGym Website</a> 
+- <a href="https://y73hs.csb.app/">React Props Cards</a>  
+- <a href="http://rrahim.info/projects/DrumKitJS/index.html">Drum Kit - JavaScript</a>  
 - <a href="http://rrahim.info/2550/final/index.php">PHP II Final Project</a> 
 - <a href="http://rrahim.info/wordpress/">WordPress.org</a> 
 - <a href="http://rrahim.info/1510/restaurant/resturant.html">Restaurant Web</a>
