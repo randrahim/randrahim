@@ -41,7 +41,8 @@ Computer and System Engineer with a recent second degree in Website Design and D
 
 
 <b><h1>Languages & Technical Skills:</h1></b>
-- HTML <b>|</b> CSS <b>|</b> Bootstrap
+- HTML <b>|</b> CSS 
+- Bootstrap <b>|</b> SASS
 - JavaScript <b>|</b> JQuery <b>|</b> Ajax
 - PHP <b>|</b> SQL 
 - React.js <b>|</b> Node.js <b>|</b> Express.js
@@ -49,6 +50,7 @@ Computer and System Engineer with a recent second degree in Website Design and D
 - Agile Methodology
 - Adobe Photoshop <b>|</b> Illustrator <b>|</b> InDesign 
 - Adobe XD <b>|</b> Figma
+- Git <b>|</b> GitHub
 - MS Word <b>|</b> PowerPoint <b>|</b> Excel <b>|</b> Outlook
 - Windows XP/7/8/10  <b>|</b> MacOS X
 
