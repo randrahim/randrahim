@@ -41,11 +41,16 @@ Computer and System Engineer with a recent second degree in Website Design and D
 
 
 <b><h1>Languages & Technical Skills:</h1></b>
-- HTML <b>|</b> CSS <b>|</b> JavaScript <b>|</b> Bootstrap <b>|</b> JQuery <b>|</b> Ajax <b>|</b> React.js
-- PHP <b>|</b> SQL <b>|</b> Node.js <b>|</b> Express.js <b>|</b> Wordpress <b>|</b> Agile Methodology
-- Adobe Photoshop <b>|</b> Illustrator <b>|</b> InDesign <b>|</b> Adobe XD <b>|</b> Figma
+- HTML <b>|</b> CSS <b>|</b> Bootstrap
+- JavaScript <b>|</b> JQuery <b>|</b> Ajax
+- PHP <b>|</b> SQL 
+- React.js <b>|</b> Node.js <b>|</b> Express.js
+- Wordpress 
+- Agile Methodology
+- Adobe Photoshop <b>|</b> Illustrator <b>|</b> InDesign 
+- Adobe XD <b>|</b> Figma
 - MS Word <b>|</b> PowerPoint <b>|</b> Excel <b>|</b> Outlook
-- Windows XP/7/8/10  <b>|</b> MacOS X  <b>|</b> MS Visual Studio Code
+- Windows XP/7/8/10  <b>|</b> MacOS X
 
 <b><h1>Projects:</h1></b>
 - <a href="http://rrahim.info/projects/omniFood/index.html">Omni Food Website</a> 
