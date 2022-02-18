@@ -31,13 +31,13 @@ Computer and System Engineer with a recent second degree in Website Design and D
  
  - <b>Google UX Design Professional Certificate</b><br>
    There are 7 Courses in this Professional Certificate:
-    - Course 1: Foundations of User Experience (UX) Design.	
-    - Course 2: Start the UX Design Process: Empathize, Define, and Ideate.
-    - Course 3: Build Wireframes and Low-Fidelity Prototypes.
-    - Course 4: Conduct UX Research and Test Early Concepts.
-    - Course 5: Create High-Fidelity Designs and Prototypes in Figma.
-    - Course 6: Responsive Web Design in Adobe XD.
-    - Course 7: Design a User Experience for Social Good & Prepare for Jobs.
+    - <b>Course 1:</b> Foundations of User Experience (UX) Design.	
+    - <b>Course 2:</b> Start the UX Design Process: Empathize, Define, and Ideate.
+    - <b>Course 3:</b> Build Wireframes and Low-Fidelity Prototypes.
+    - <b>Course 4:</b> Conduct UX Research and Test Early Concepts.
+    - <b>Course 5:</b> Create High-Fidelity Designs and Prototypes in Figma.
+    - <b>Course 6:</b> Responsive Web Design in Adobe XD.
+    - <b>Course 7:</b> Design a User Experience for Social Good & Prepare for Jobs.
     - Link to my progress in this course: http://rrahim.info/projects/google-ux/index.html <br><br>
 
 
