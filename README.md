@@ -37,7 +37,8 @@ Computer and System Engineer with a recent second degree in Website Design and D
     - Course 4: Conduct UX Research and Test Early Concepts.
     - Course 5: Create High-Fidelity Designs and Prototypes in Figma.
     - Course 6: Responsive Web Design in Adobe XD.
-    - Course 7: Design a User Experience for Social Good & Prepare for Jobs.<br><br>
+    - Course 7: Design a User Experience for Social Good & Prepare for Jobs.
+    - Link to my progress in this course: http://rrahim.info/projects/google-ux/index.html <br><br>
 
 
 <b><h1>Languages & Technical Skills:</h1></b>
@@ -67,6 +68,6 @@ Computer and System Engineer with a recent second degree in Website Design and D
 - <a href="http://rrahim.info/1510/pacific/index.html">Pacific Trails Resort</a>
 - <a href="http://rrahim.info/1510/javaJam/index.html">Java Jam Coffee</a>
 - <a href="http://rrahim.info/1510/yogaStudio/index.html">Light Yoga Studio</a>
-- <a href="http://rrahim.info/2531/index.html">Photoshop Assignments & Final Project</a>
-- <a href="http://rrahim.info/1550/index.html">Illustrator Assignments & Final Project</a>
+- <a href="http://rrahim.info/2531/index.html">Photoshop Projects</a>
+- <a href="http://rrahim.info/1550/index.html">Illustrator Projects</a>
 - <a href="http://rrahim.info/1560/index.html">InDesign Final Project</a>
