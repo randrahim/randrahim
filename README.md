@@ -56,7 +56,7 @@ Computer and System Engineer with a recent second degree in Website Design and D
 - Windows XP/7/8/10  <b>|</b> MacOS X
 
 <b><h1>Projects:</h1></b>
-o	<b>Websites built using HTML/CSS/Bootstrap.</b>
+<b>o	Websites built using HTML/CSS/Bootstrap.</b>
 - <a href="http://rrahim.info/projects/omniFood/index.html">Omni Food Website</a> 
 - <a href="http://rrahim.info/projects/EverydayThings/index.html">Everyday Things Website</a>
 - <a href="http://rrahim.info/projects/FunGym/index.html">FunGym Website</a> 
@@ -66,24 +66,24 @@ o	<b>Websites built using HTML/CSS/Bootstrap.</b>
 - <a href="http://rrahim.info/1510/javaJam/index.html">Java Jam Coffee</a>
 - <a href="http://rrahim.info/1510/yogaStudio/index.html">Light Yoga Studio</a>
 
-o	<b>Build a Cards Components page using React.</b>
+<b>o	Build a Cards Components page using React.</b>
 - <a href="https://y73hs.csb.app/">React Props Cards</a> 
 
-o	<b>Developed a webpage using JavaScript.</b>  
+<b>o	Developed a webpage using JavaScript.</b>  
 - <a href="http://rrahim.info/projects/DrumKitJS/index.html">Drum Kit - JavaScript</a> 
 
 o	<b>Websites built using HTML/CSS/Bootstrap/PHP/SQL.</b>
 - <a href="http://rrahim.info/2550/final/index.php">Book Conference Room</a> 
 - <a href="http://rrahim.info/2351/final/index.php">The Student Gradebook</a> 
 
-o	<b>Created responsive websites with WordPress.org and WordPress.com.</b>
+<b>o	Created responsive websites with WordPress.org and WordPress.com.</b>
 - <a href="http://rrahim.info/wordpress/">WordPress.org</a> 
 - <a href="https://rrahim8.wordpress.com/">WordPress.com</a>
 
-o	<b>Graphic Design Projects using Adobe Photoshop, Illustrator, and InDesign.</b>
+<b>o	Graphic Design Projects using Adobe Photoshop, Illustrator, and InDesign.</b>
 - <a href="http://rrahim.info/2531/index.html">Photoshop Projects</a>
 - <a href="http://rrahim.info/1550/index.html">Illustrator Projects</a>
 - <a href="http://rrahim.info/1560/index.html">InDesign Final Project</a>
 
-o	<b>Google UX Design Professional Certificate works.</b>
+<b>o	Google UX Design Professional Certificate works.</b>
 - <a href="http://rrahim.info/projects/google-ux/index.html">Google UX Design</a>
