@@ -72,8 +72,9 @@ o	Build a Cards Components page using React.
 o	Developed a webpage using JavaScript.  
 - <a href="http://rrahim.info/projects/DrumKitJS/index.html">Drum Kit - JavaScript</a> 
 
-o	Websites built using HTML/CSS/Bootstrap/PHP/SQL. 
-- <a href="http://rrahim.info/2550/final/index.php">PHP II Final Project</a> 
+o	Websites built using HTML/CSS/Bootstrap/PHP/SQL.
+- <a href="http://rrahim.info/2550/final/index.php">Book Conference Room</a> 
+- <a href="http://rrahim.info/2351/final/index.php">The Student Gradebook</a> 
 
 o	Created responsive websites with WordPress.org and WordPress.com.
 - <a href="http://rrahim.info/wordpress/">WordPress.org</a> 
