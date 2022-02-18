@@ -30,14 +30,14 @@ Computer and System Engineer with a recent second degree in Website Design and D
   - Cert Prep: AWS Certified Solutions Architect - Professional - Lynda.com	<br><br>
  
  - <b>Google UX Design Professional Certificate</b>
-   <p>There are 7 Courses in this Professional Certificate:
-  - Course 1: Foundations of User Experience (UX) Design	
-  - Course 2: Start the UX Design Process: Empathize, Define, and Ideate
-  - Course 3: Build Wireframes and Low-Fidelity Prototypes
-  - Course 4: Conduct UX Research and Test Early Concepts
-  - Course 5: Create High-Fidelity Designs and Prototypes in Figma
-  - Course 6: Responsive Web Design in Adobe XD
-  - Course 7: Design a User Experience for Social Good & Prepare for Jobs	</p><br><br>
+   There are 7 Courses in this Professional Certificate:
+  - Course 1: Foundations of User Experience (UX) Design.	
+  - Course 2: Start the UX Design Process: Empathize, Define, and Ideate.
+  - Course 3: Build Wireframes and Low-Fidelity Prototypes.
+  - Course 4: Conduct UX Research and Test Early Concepts.
+  - Course 5: Create High-Fidelity Designs and Prototypes in Figma.
+  - Course 6: Responsive Web Design in Adobe XD.
+  - Course 7: Design a User Experience for Social Good & Prepare for Jobs.<br><br>
 
 
 <b><h1>Languages & Technical Skills:</h1></b>
