@@ -78,6 +78,7 @@ o	Websites built using HTML/CSS/Bootstrap/PHP/SQL.
 
 o	Created responsive websites with WordPress.org and WordPress.com.
 - <a href="http://rrahim.info/wordpress/">WordPress.org</a> 
+- <a href="https://rrahim8.wordpress.com/">WordPress.com</a>
 
 o	Graphic Design Projects using Adobe Photoshop, Illustrator, and InDesign.
 - <a href="http://rrahim.info/2531/index.html">Photoshop Projects</a>
