@@ -29,7 +29,7 @@ Computer and System Engineer with a recent second degree in Website Design and D
   - Become an Agile Project Manager (Learning Paths) - Lynda.com	
   - Cert Prep: AWS Certified Solutions Architect - Professional - Lynda.com	<br><br>
  
- - <b>Google UX Design Professional Certificate</b><br>
+ - <b>Google UX Design Professional Certificate - In Progress</b><br>
    There are 7 Courses in this Professional Certificate:
     - <b>Course 1:</b> Foundations of User Experience (UX) Design.	
     - <b>Course 2:</b> Start the UX Design Process: Empathize, Define, and Ideate.
