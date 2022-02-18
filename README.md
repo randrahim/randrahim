@@ -56,18 +56,32 @@ Computer and System Engineer with a recent second degree in Website Design and D
 - Windows XP/7/8/10  <b>|</b> MacOS X
 
 <b><h1>Projects:</h1></b>
+o	Websites built using HTML/CSS/Bootstrap.
 - <a href="http://rrahim.info/projects/omniFood/index.html">Omni Food Website</a> 
 - <a href="http://rrahim.info/projects/EverydayThings/index.html">Everyday Things Website</a>
 - <a href="http://rrahim.info/projects/FunGym/index.html">FunGym Website</a> 
-- <a href="https://y73hs.csb.app/">React Props Cards</a>  
-- <a href="http://rrahim.info/projects/DrumKitJS/index.html">Drum Kit - JavaScript</a>  
-- <a href="http://rrahim.info/2550/final/index.php">PHP II Final Project</a> 
-- <a href="http://rrahim.info/wordpress/">WordPress.org</a> 
 - <a href="http://rrahim.info/1510/restaurant/resturant.html">Restaurant Web</a>
 - <a href="http://rrahim.info/1510/final/index.html">Plant Based Diet</a>
 - <a href="http://rrahim.info/1510/pacific/index.html">Pacific Trails Resort</a>
 - <a href="http://rrahim.info/1510/javaJam/index.html">Java Jam Coffee</a>
 - <a href="http://rrahim.info/1510/yogaStudio/index.html">Light Yoga Studio</a>
+
+o	Build a Cards Components page using React. 
+- <a href="https://y73hs.csb.app/">React Props Cards</a> 
+
+o	Developed a webpage using JavaScript.  
+- <a href="http://rrahim.info/projects/DrumKitJS/index.html">Drum Kit - JavaScript</a> 
+
+o	Websites built using HTML/CSS/Bootstrap/PHP/SQL. 
+- <a href="http://rrahim.info/2550/final/index.php">PHP II Final Project</a> 
+
+o	Created responsive websites with WordPress.org and WordPress.com.
+- <a href="http://rrahim.info/wordpress/">WordPress.org</a> 
+
+o	Graphic Design Projects using Adobe Photoshop, Illustrator, and InDesign.
 - <a href="http://rrahim.info/2531/index.html">Photoshop Projects</a>
 - <a href="http://rrahim.info/1550/index.html">Illustrator Projects</a>
 - <a href="http://rrahim.info/1560/index.html">InDesign Final Project</a>
+
+o	Google UX Design Professional Certificate works.
+- <a href="http://rrahim.info/projects/google-ux/index.html">Google UX Design</a>
