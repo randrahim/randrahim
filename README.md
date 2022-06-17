@@ -9,37 +9,9 @@ Motivated Front-End Developer and UX Designer with experience in creating custom
 <a href="http://www.rrahim.info">My Portfolio</a> &nbsp; &nbsp; &nbsp;
 <a href="http://www.linkedin.com/in/randrahim">My LinkedIn</a>
 
-<b><h1>Education:</h1></b>
-- <b>University of Technology:</b>
-  - Bachelor of Science (B.Sc.) in Computer Systems Engineering<br>    
-- <b>Gwinnett Technical College:</b>
-  - Diploma Degree in Website Design/Development (2019 - 2021).
-  - Web Site Developer Certificate (2019 - 2021).
-  - Graphic Design for the Web Certificate (2019 - 2021).<br><br>
-
 <b><h1>Certification:</h1></b> 
   - <a href="https://www.credly.com/badges/a3f60f90-e75b-466d-a8ee-7736b39e32bb?source=linked_in_profile">AWS Certified Cloud Practitioner</a>
-
-- <b>Bootcamps Certificate:</b>
-  - Build Responsive Real-World Websites with HTML5 and CSS3 - Udemy.com	
-  - The Complete 2020 Web Development Bootcamp by Angela Yu- Udemy.com
-  - The Web Developer Bootcamp by Colt Steele - Udemy.com
-  - Master In-Demand Professional Soft Skills - Learning Paths - Lynda.com 		
-  - Succeeding in Web Development: Full Stack and Front End - Lynda.com 		
-  - Become an Agile Project Manager (Learning Paths) - Lynda.com	
-  - Cert Prep: AWS Certified Solutions Architect - Professional - Lynda.com	<br><br>
- 
- - <b>Google UX Design Professional Certificate - In Progress</b><br>
-   There are 7 Courses in this Professional Certificate:
-    - <b>Course 1:</b> Foundations of User Experience (UX) Design.	
-    - <b>Course 2:</b> Start the UX Design Process: Empathize, Define, and Ideate.
-    - <b>Course 3:</b> Build Wireframes and Low-Fidelity Prototypes.
-    - <b>Course 4:</b> Conduct UX Research and Test Early Concepts.
-    - <b>Course 5:</b> Create High-Fidelity Designs and Prototypes in Figma.
-    - <b>Course 6:</b> Responsive Web Design in Adobe XD.
-    - <b>Course 7:</b> Design a User Experience for Social Good & Prepare for Jobs.
-    - Link to my progress in this course: http://rrahim.info/projects/google-ux/index.html <br><br>
-
+  - <a href="https://www.credly.com/badges/0a2c4328-5174-4c60-8c7b-97334ed1b723/public_url">Google UX Design Certificate</a>
 
 <b><h1>Languages & Technical Skills:</h1></b>
 - HTML <b>|</b> CSS 
@@ -52,8 +24,11 @@ Motivated Front-End Developer and UX Designer with experience in creating custom
 - Adobe Photoshop <b>|</b> Illustrator <b>|</b> InDesign 
 - Adobe XD <b>|</b> Figma
 - Git <b>|</b> GitHub
-- MS Word <b>|</b> PowerPoint <b>|</b> Excel <b>|</b> Outlook
-- Windows XP/7/8/10  <b>|</b> MacOS X
+- Wireframing <b>|</b> Prototyping
+- Creating Personas <b>|</b> Mockups     
+- Usability Study     
+- User Research     
+- User Journey Map 
 
 <b><h1>Projects:</h1></b>
 <b>o	Websites built using HTML/CSS/Bootstrap.</b>
@@ -86,4 +61,4 @@ o	<b>Websites built using HTML/CSS/Bootstrap/PHP/SQL.</b>
 - <a href="http://rrahim.info/1560/index.html">InDesign Final Project</a>
 
 <b>o	Google UX Design Professional Certificate works.</b>
-- <a href="http://rrahim.info/projects/google-ux/index.html">Google UX Design</a>
+- <a href="https://randrahim.wordpress.com/">Google UX Design</a>
