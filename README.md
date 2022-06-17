@@ -3,7 +3,7 @@
 <!--
 **randrahim/randrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <b><h1>Rand Rahim</h1></b><br>
-Computer and System Engineer with a recent second degree in Website Design and Development. Creative and motivated Front-End Developer with some work experience in building and maintaining responsive websites. Skilled in designing, developing, and testing multiple web-based applications incorporating a range of technologies. Enjoyed learning new things and getting hands-on experience in the software development industry to excel as a Front-End Developer. Ready to apply my passion for coding to a talented engineering team to develop quality solutions.
+Motivated Front-End Developer and UX Designer with experience in creating custom responsive websites through HTML, CSS, JavaScript, Bootstrap, PHP, and SQL. Skilled in designing, developing, testing, and debugging processes. Dedicated to learning additional new web technologies and coding languages (currently enrolled in a React course). Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 <br><br>
 
 <a href="http://www.rrahim.info">My Portfolio</a> &nbsp; &nbsp; &nbsp;
